@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a559c19f440ef5e4a8e642ad80c374ed, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  gold: 0
+  steps: 0
+  hours: 0
+  minutes: 0
+  seconds: 0
+  battles: 0
+  victories: 0
+  defeats: 0
+  maxGold: 99999
+  maxHours: 999

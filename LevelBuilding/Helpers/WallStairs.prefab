@@ -50,6 +50,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   eventName: Stairs
+  localVars: {fileID: 0}
   actionDisplayed: Climb
   interactable: 0
   inPlayerSight: 0
@@ -1090,6 +1091,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   eventName: Stairs
+  localVars: {fileID: 0}
   actionDisplayed: Climb
   interactable: 0
   inPlayerSight: 0
